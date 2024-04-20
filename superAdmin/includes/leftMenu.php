@@ -87,14 +87,6 @@ $staffFullName = $row['firstName'].' '.$row['lastName'];
                         </ul>
                     </li>
 
-                    <li class="menu-item-has-children dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
-                                aria-expanded="false"> <i class="menu-icon fa fa-user"></i>Admin</a>
-                            <ul class="sub-menu children dropdown-menu">
-                                <li><i class="fa fa-plus"></i><a href="createAdmin.php">Add Administrator</a></li>
-                                <li><i class="fa fa-eye"></i><a href="viewAdmin.php">View Administrator</a></li>
-                            </ul>
-                        </li>
                         
                     <li>
                         <a href="logout.php"> <i class="menu-icon fa fa-power-off"></i>Logout </a>
