@@ -1,0 +1,55 @@
+<!-- =======================================================
+    * Project Name: Student Gaide - CCBD
+    * Project URL: 
+    * Author: Code Camp BD
+    * Developer: MH RONY
+    * License: Free to Use just Educational Perpus
+======================================================== -->
+
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
+           
+**Watch more poroject to visit Our Youtube Channel - https://youtube.com/playlist?list=PLwC8LFb2Ws3K0SBdiBJjyvGpqHnEyiRK6&si=o03aWP1yCBIR9jcv **
+
+**Database Name: studentguide**
+
+**Developed by MH RONY**
+
+**Recommended PHP Version 5.6, 7.4**
+
+**Admin Login Details** 
+
+
+Author/Admin Login Info
+----------------------
+Username / Staff ID: CCBD
+Password: Please Watch This full Video...
+
+
+
+Student Login Info
+---------------------
+Student ID: You Know...
+Password: Please Watch This Full Video
+
+<!--  Author Name: MH RONY.
+    GigHub Link: https://github.com/dev-mhrony
+    Facebook Link:https://www.facebook.com/dev.mhrony
+    Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+    Visit My Website : developerrony.com 
+-->
+
+
+<!-- =======================================================
+    * Project Name: Student Gaide - CCBD
+    * Project URL: 
+    * Author: Code Camp BD
+    * Developer: MH RONY
+    * License: Free to Use just Educational Perpus
+======================================================== -->
