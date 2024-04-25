@@ -9,11 +9,6 @@ This PHP attendance system project is primarily concerned with dealing with stud
 
 * Video Link: 
 
-**Admin / Teacher Login Details**
-
-* Student ID   : [Staff ID]
-* Password: (Password on the YouTube video)
-
 **Student Login Details**
 
 * Student ID : 123456
