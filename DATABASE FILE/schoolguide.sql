@@ -47,7 +47,7 @@ CREATE TABLE `tbladmin` (
 --
 
 INSERT INTO `tbladmin` (`Id`, `firstName`, `lastName`, `otherName`, `emailAddress`, `phoneNo`, `password`, `staffId`, `adminTypeId`, `isAssigned`, `isPasswordChanged`, `dateCreated`) VALUES
-(1, 'Code Camp', 'BD', 'CCBD', 'admin@mail.com', '01608445456', '825031682f2f39b80775fe206d1e6a99', 'CCBD', 1, 1, 0, '');
+(1, 'Code Camp', 'BD', 'CCBD', 'admin@mail.com', '01608445456', '671ae51238477cccb1936932ee9f0fa3', 'CCBD', 1, 1, 0, '');
 
 -- --------------------------------------------------------
 
